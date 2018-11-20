@@ -1,9 +1,8 @@
 function takeANumber(line) {
-      var num = 1;
-      line.push(num);
+          line.push(num);
  return `Welcome, you are ticket number ${num} in line.`;
 }
-  
+    var num = ;
 
 function nowServing(line) {
  if (line.length === 0) {
